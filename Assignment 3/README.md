@@ -1,4 +1,4 @@
-# 🏠 RentalChain DApp - Remix Edition
+
 
 **Polygon Amoy Testnet | Chain ID: 80002**
 
